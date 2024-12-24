@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: landing-container
-        image: landing-page:latest
+        image: kevmev/landing-page:latest
         ports:
         - containerPort: 80
